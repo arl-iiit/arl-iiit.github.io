@@ -47,13 +47,13 @@ layout: base
 -->
 <hr> 
 <h3><a name="2018"></a>2018</h3>
-<p class="textabstract">Corrionero A and Horvitz HR. (2018)<a href="assets/publications/"> A C9orf72 ALS/FTD Ortholog Acts in Endolysosomal Degradation and Lysosomal Homeostasis.</a> corrionero2018.pdf Curr Biol. 21;28(10):1522-1535.e5. <span class="text-muted">PDF available.</span></p>
-<p class="textabstract">Engert CG, Droste R, van Oudenaarden A, Horvitz HR (2018)<a href="assets/publications/engert2018.pdf PLoS Genet. 27;14(4):e1007295."> A <i>Caenorhabditis elegans</i> protein with a PRDM9-like SET domain localizes to chromatin-associated foci and promotes spermatocyte gene expression, sperm production and fertility.</a> other <span class="text-muted">PDF available.</span></p>
-<p class="textabstract">Pender CL and Horvitz HR. (2018)<a href="assets/publications/"> Hypoxia-inducible factor cell non-autonomously regulates <i>C. elegans</i> stress responses and behavior via a nuclear receptor.</a> pender2018.pdf Elife. 16;7. pii: e36828. <span class="text-muted">PDF available.</span></p>
-<p class="textabstract">Van Bael S, Watteyne J, Boonen K, De Haes W, Menschaert G, Ringstad N, Horvitz HR, Schoofs L, Husson SJ, Temmerman L. (2018)<a href="assets/publications/vanBael2018.pdf "> Mass spectrometric evidence for neuropeptide-amidating enzymes in <i>Caenorhabditis elegans</i>.</a> J Biol Chem. 20;293(16):6052-6063. <span class="text-muted">PDF available.</span></p>
+<p class="textabstract">Jha, A., Voleti, V., Namboodiri, V. P., & Jawahar, C. V.(2018)<a href="assets/publications/vikram.pdf"> Lip-Synchronization for Dubbed Instructional Videos.</a> FIVER @ CVPR'18 <span class="text-muted">PDF available.</span></p>
+<p class="textabstract">Annadani, Y., & Jawahar, C. V.(2018)<a href="assets/publications/yashas.pdf"> Augment and Adapt: A Simple Approach to Image Tampering Detection</a> ICPR'18 <span class="text-muted">PDF available.</span></p>
+<p class="textabstract">Datta, S., Sharma, G., & Jawahar, C. V. (2018)<a href="assets/publications/samyak.pdf"> Unsupervised Learning of Face Representations</a> FG'18 <span class="text-muted">PDF available.</span></p>
+<p class="textabstract">Agarwal, N., Balasubramanian, V. N., & Jawahar, C. V.(2018)<a href="assets/publications/nakul.pdf "> Improving multiclass classification by deep networks using DAGSVM and Triplet Loss.</a> Pattern Recognition Letterss. <span class="text-muted">PDF available.</span></p>
 <p class="textabstract"><a href="#top">top</a></p>
 
-<hr> 
+<!-- <hr> 
 <h3><a name="2017"></a>2017</h3>
 <p class="textabstract">Burton, N.O., Furuta, T., Webster, A.K., Kaplan, R.E., Baugh, L.R., Arur, S., Horvitz, H.R. (2017)<a href="assets/publications/burton2017.pdf"> Insulin-like signalling to the maternal germline controls progeny response to osmotic stress.</a> Nat Cell Biol 19(3):252-257. <span class="text-muted">PDF available.</span></p>
 <p class="textabstract">Driscoll, K., Stanfield, G.M., Droste, R., Horvitz, H.R. (2017)<a href="assets/publications/driscoll2017.pdf "> Presumptive TRP channel CED-11 promotes cell volume decrease and facilitates degradation of apoptotic cells in <i>Caenorhabditis elegans</i>.</a> PNAS 15;114(33):8806-8811. <span class="text-muted">PDF available.</span></p>
@@ -143,7 +143,7 @@ layout: base
 <p class="textabstract">Choi, P., Zakhary, L., Choi, W.-Y., Caron, S., Alvarez-Saavedra, E., Miska, E., McManus, M., Harfe, B., Giraldez, A., Horvitz, H.R., Schier, A. and Dulac, C. (2008)<a href="assets/publications/choi2008.pdf"> Members of the miRNA-200 family regulate olfactory neurogenesis.</a> Neuron. 57, 41-55. <span class="text-muted">PDF available.</span></p>
 <p class="textabstract">Galvin, B.D., Kim S. and Horvitz H.R. (2008)<a href="assets/publications/galvin2008.pdf"> <i>Caenorhabditis elegans</i> genes required for the engulfment of apoptotic corpses function in the cytotoxic cell deaths induced by mutations in <i>lin-24</i> and <i>lin-33</i>.</a> Genetics 179(1):403-17. <span class="text-muted">PDF available.</span></p>
 <p class="textabstract">Ringstad, N and Horvitz, H.R. (2008)<a href="assets/publications/ringstad2008.pdf"> FMRFamide neuropeptides and acetylcholine synergistically inhibit egg-laying by <i>C. elegans</i>.</a> Nat. Neurosci. 11(10): 1168-76. <span class="text-muted">PDF available.</span></p>
-<p class="textabstract"><a href="#top">top</a></p>
+<p class="textabstract"><a href="#top">top</a></p> -->
 
 <hr> 
 
