@@ -1,0 +1,535 @@
+---
+layout: base
+---
+<div>
+<div class="container">
+    <h2>People </h2>
+    <h4>Click on a name for more information</h4>
+    <div class="row">
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#naan">
+    Shirisha<br>Lab Manager
+</button>
+
+
+<!-- Modal -->
+<div class="modal fade" id="naan" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Na An</h4>
+        <a href="mailto:naan@mit.edu">naan@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/naan_2.jpg" />
+        <ul>
+            <li>I take care of everyone's safety and happiness in the lab, including the frozen strains.</li>
+            <li>Joined the lab in 1991</li>
+        </ul>
+    </div>   
+    </div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+            <div class="carousel slide hidden-xs hidden-sm hidden-md hidden-lg" data-ride="carousel" data-wrap="false" id="carousel-1">
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active"><img class="img-responsive" src="assets/img/Whorl.jpg" alt="Slide Image" width="250" height="250"></div>
+                    <div class="item"><img src="assets/img/Image5-3D pharynx.png" alt="Slide Image" width="250" height="250"></div>
+                    <div class="item"><img src="assets/img/nuc-1mCh_vit-2BFP_GFPrab-2.jpg" alt="Slide Image" height="250"></div>
+                    <div class="item"><img src="assets/img/FullSizeRender.jpg" alt="Slide Image" height="250"></div>
+                </div>
+                <div><a class="left carousel-control" href="#carousel-1" role="button" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i><span class="sr-only">Previous</span></a><a class="right carousel-control" href="#carousel-1" role="button"
+                    data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i><span class="sr-only">Next</span></a></div>
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-1" data-slide-to="1"></li>
+                    <li data-target="#carousel-1" data-slide-to="2"></li>
+                    <li data-target="#carousel-1" data-slide-to="3"></li>
+                </ol>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/anisimov.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#anisimov">
+Nick Anisimov<br>Administrative <br>Coordinator
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="anisimov" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Nick Anisimov</h4>
+        <a href="mailto:anisimov@mit.edu">anisimov@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/anisimov_2.jpg" />
+        <ul>
+            <li>I help with grants, fellowships, admin details, etc.</li>
+            <li>Joined the lab in 2003</li>
+            <li>B.A. in Economics, UMass Boston 1981</li>
+            <li>M.A. in Economics, Boston University 1985</li>
+            <li>M.B.A., Sloan School 1987</li>
+
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/kirkb.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#anisimov">
+Varun Perla<br>Research Fellow <br>
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="anisimov" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Varun Perla</h4>
+        <a href="mailto:anisimov@mit.edu">varun.perla@students.iiit.ac.in</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="/Images/varun.jpg" />
+        <ul>
+            <li>I work on Autonomous Navigation in Indian Road Setting.</li>
+            <li>Joined the lab in March, 2018</li>
+            <li>B.E. (Hons) in Mechanical Engineering, BITS Pilani</li>
+            <li>Previous: Associate Product Manager at <a href="https://www.imiconnect.io/">IMIconnect</a></li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/annacs.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#annacs">
+Anna <br>Corrionero Saiz<br>Postdoc
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="annacs" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Anna Corrionero Saiz</h4>
+        <a href="mailto:annacs@mit.edu">annacs@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/annacs.jpg" />
+        <ul>
+            <li>I am studying the pathogenic mechanism(s) of the most common genetic cause of amyotrophic lateral sclerosis and frontotemporal dementia.</li>
+            <li>Joined the lab in 2011</li>
+            <li>B.Sc. in Human Biology, Universitat Pompeu Fabra, Barcelona 2005</li>
+            <li>Research proficiency degree (Diploma d’Estudis Avaçats), Universitat Pompeu Fabra, Barcelona 2007</li>
+            <li>PhD in Biomedicine, Center for Genomic Regulation/Universitat Pompeu Fabra, Barcelona 2010</li>
+            <ul><li>Ph.D. Advisor: Juan Valcárcel Juárez</li>
+                <li>Dissertation Title: Regulation of mammalian 3' splice site recognition</li>
+            </ul>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/cdiehl.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#cdiehl">
+Calista Diehl<br>Grad Student
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="cdiehl" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Calista Diehl</h4>
+        <a href="mailto:cdiehl@mit.edu">cdiehl@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/cdiehl.jpg" />
+        <ul>
+            <li>I am currently studying the molecular interactions which control cell death.</li>
+            <li>Joined the lab in 2017</li>
+            <li>B.A. in Biology, Oberlin College 2016</li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/adoi.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#adoi">
+Akiko Doi<br>Postdoc
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="adoi" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Akiko Doi</h4>
+        <a href="mailto:adoi@mit.edu">adoi@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/adoi.jpg" />
+        <ul>
+            <li>I am studying gene regulatory mechanisms controlling stem cell fate and larval-to-adult transition.</li>
+            <li>Joined the lab in 2013</li>
+            <li>B.S. in Biological Chemistry and Music, Bates College, 2007</li>
+            <li>Ph.D. in Cellular and Molecular Medicine, Johns Hopkins School of Medicine, 2013</li>
+            <ul><li>Ph.D. Advisor: Andrew P. Feinberg</li>
+                <li>Dissertation Title: Epigenetic Basis of Cell Identity</li>
+            </ul>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/rdroste.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#rdroste">
+    Rita Droste<br>Research Specialist
+</button>
+
+
+<!-- Modal -->
+<div class="modal fade" id="rdroste" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Rita Droste</h4>
+        <a href="mailto:rdroste@mit.edu">rdroste@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/rdroste_2.jpg" />
+        <ul>
+            <li>I am working with members of the lab on projects where electron microscopy may help visualize ultrastructural details of the worm. On the side, I am assisting Na and I am filling in for her when she is away.</li>
+            <li>Joined the lab in 2008</li>
+            <li>Masters of Science, Northeastern University 2003</li>
+        </ul>
+    </div>   
+    </div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+            <div class="carousel slide hidden-xs hidden-sm hidden-md hidden-lg" data-ride="carousel" data-wrap="false" id="carousel-1">
+                <div class="carousel-inner" role="listbox">
+                    <div class="item active"><img class="img-responsive" src="assets/img/Whorl.jpg" alt="Slide Image" width="250" height="250"></div>
+                    <div class="item"><img src="assets/img/Image5-3D pharynx.png" alt="Slide Image" width="250" height="250"></div>
+                    <div class="item"><img src="assets/img/nuc-1mCh_vit-2BFP_GFPrab-2.jpg" alt="Slide Image" height="250"></div>
+                    <div class="item"><img src="assets/img/FullSizeRender.jpg" alt="Slide Image" height="250"></div>
+                </div>
+                <div><a class="left carousel-control" href="#carousel-1" role="button" data-slide="prev"><i class="glyphicon glyphicon-chevron-left"></i><span class="sr-only">Previous</span></a><a class="right carousel-control" href="#carousel-1" role="button"
+                    data-slide="next"><i class="glyphicon glyphicon-chevron-right"></i><span class="sr-only">Next</span></a></div>
+                <ol class="carousel-indicators">
+                    <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
+                    <li data-target="#carousel-1" data-slide-to="1"></li>
+                    <li data-target="#carousel-1" data-slide-to="2"></li>
+                    <li data-target="#carousel-1" data-slide-to="3"></li>
+                </ol>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/vivekd.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#vivekd">
+Vivek Dwivedi<br>Grad Student
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="vivekd" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Vivek Dwivedi</h4>
+        <a href="mailto:vivekd@mit.edu">vivekd@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/vivekd.jpg" />
+        <ul>
+            <li>I am exploring the mechanisms of cell extrusion, a form of caspase-independent programmed cell death, in <i>C. elegans</i>.</li>
+            <li>Joined the lab in 2013</li>
+            <li>B.Tech., M.Tech in Biochemical Engineering and Biotechnology, Indian Institute of Technology, Delhi 2012</li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/dipon.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#dipon">
+Dipon Ghosh<br>Postdoc
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="dipon" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Dipon Ghosh</h4>
+        <a href="mailto:dipon@mit.edu">dipon@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/dipon.jpg" />
+        <ul>
+            <li>I am studying neuronal regulation of stress responses.</li>
+            <li>Joined the lab in 2017</li>
+            <li>B.S., Carnegie Mellon University, 2009</li>
+            <li>Ph.D., Yale University, 2017</li>
+            <ul><li>Ph.D. Advisor: Michael Nitabach</li>
+                <li>Dissertation Title: Multisensory integration in <i>C. elegans</i> behavioral ecology</li>
+            </ul>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/jikong.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#jikong">
+Ji Na Kong<br>Postdoc
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="jikong" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Ji Na Kong</h4>
+        <a href="mailto:jikong@mit.edu">jikong@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/jikong.jpg" />
+        <ul>
+            <li>I am studying the role of lipids in physiological responses to environmental stress.</li>
+            <li>Joined the lab in 2017</li>
+            <li>B.A. in Life Science, Chung-Ang University, Seoul, South Korea, 2011 </li>
+            <li>Ph.D. in Molecular Medicine, Medical College of Georgia at Augusta University, 2016 </li>
+            <ul><li>Ph.D. Advisor: Erhard Bieberich</li>
+                <li>Dissertation Title: Ceramide Compartments and Protein Interaction: Structure Meets Function</li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/dyeoplee.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#dyeoplee">
+Dongyeop Lee<br>Postdoc
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="dyeoplee" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Dongyeop Lee</h4>
+        <a href="mailto:dyeoplee@mit.edu">dyeoplee@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/dyeoplee_2.jpg" />
+        <ul>
+            <li>I am studying the genetic regulation of programmed cell death.</li>
+            <li>Joined the lab in 2018</li>
+            <li>B.S., Pusan National University, South Korea, 2010 </li>
+            <li>Ph.D., Pohang University of Science and Technology (POSTECH), South Korea, 2017 </li>
+            <ul><li>Ph.D. Advisor: Seung-Jae V Lee</li>
+                <li>Dissertation Title: Genetic factors that regulate metabolism and lifespan in <i>Caenorhabditis elegans</i> on glucose-rich diets</li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/ellq.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#ellq">
+Eugene Lee<br>Grad Student
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="ellq" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Eugene Lee</h4>
+        <a href="mailto:ellq@mit.edu">ellq@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/ellq_2.jpg" />
+        <ul>
+            <li>I am working on the control of behaviors in <i>C.elegans</i>, as well as the learning and memory processes that occur in parallel with them.</li>
+            <li>Joined the lab in 2015</li>
+            <li>BSc, Biomedical Science, Imperial College London 2013</li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/srsando.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#srsando">
+Steve Sando<br>Grad Student
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="srsando" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Steve Sando</h4>
+        <a href="mailto:srsando@mit.edu">srsando@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/srsando_2.jpg" />
+        <ul>
+            <li>I study the neural circuits of the pharynx, a neuromuscular pump that the worm uses to feed. These studies have revealed a previously unknown <i>C. elegans</i> behavior that occurs in response to noxious chemicals: spitting, presumably to remove the offending taste.</li>
+            <li>Joined the lab in 2012</li>
+            <li>B.A., Grinnell College, IA 2011.</li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/gdsuarez.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#gdsuarez">
+Marco Suarez<br>
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="gdsuarez" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Marco Suarez</h4>
+        <a href="mailto:gdsuarez@mit.edu">gdsuarez@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/gdsuarez.jpg" />
+        <ul>
+            <li>I work with postdoc Akiko Doi</li> 
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-md-2">
+            <figure><img class="img-rounded" src="assets/img/joshsaul.jpg" height="150">
+                <figcaption>
+                    <!-- Button trigger modal -->
+<button type="button" class="btn btn-link btn-lg" data-toggle="modal" data-target="#joshsaul">
+Josh Saul<br>Grad Student
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="joshsaul" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+    <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <h4 class="modal-title" id="myModalLabel">Josh Saul</h4>
+        <a href="mailto:joshsaul@mit.edu">joshsaul@mit.edu</a>
+    </div>
+    <div class="modal-body">
+        <img class="img-rounded" height="150" src="assets/img/joshsaul.jpg" />
+        <ul>
+            <li>I am broadly interested in the genetic control of cell fate decisions, and I am currently working on cell-fate maintenance.</li>
+            <li>Joined the lab in 2015</li>
+            <li>B.A. in Molecular and Cellular Biology, UC Berkeley 2014</li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+                </figcaption>
+            </figure>
+        </div>
+    </div>
+    <div class="row"></div>
+</div></div>
