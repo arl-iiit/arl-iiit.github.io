@@ -48,7 +48,7 @@ layout: base
 <hr> 
 <h3><a name="2018"></a>2018</h3>
 <p class="textabstract">Vallurupalli, N., Annamaneni, S., Varma, G., Jawahar, C. V., Mathew, M., & Nagori, S.(2018)<a href="assets/publications/harsha.pdf"> Efficient Semantic Segmentation using Gradual Grouping .</a> EVW @ Workshop'18 [Oral][Best paper Runner up] <span class="text-muted">PDF available.</span></p>
-<p class="textabstract">Manisha, P., Jawahar, C. V., & Gujar, S.(2018)<a href="assets/publications/manisha.pdf"> CLearning Optimal Redistribution Mechanisms Through Neural Networks .</a> AAMAS'18 <span class="text-muted">PDF available.</span></p>
+<p class="textabstract">Manisha, P., Jawahar, C. V., & Gujar, S.(2018)<a href="assets/publications/manisha.pdf"> Learning Optimal Redistribution Mechanisms Through Neural Networks .</a> AAMAS'18 <span class="text-muted">PDF available.</span></p>
 <p class="textabstract">Reddy, S. K., Varma, G., & Jawahar, C. V.(2018)<a href="assets/publications/sudhir.pdf"> Cityscale Road Audit System using Deep Learning .</a> IROS'18 <span class="text-muted">PDF available soon.</span></p>
 <p class="textabstract">Jha, A., Voleti, V., Namboodiri, V. P., & Jawahar, C. V.(2018)<a href="assets/publications/vikram.pdf"> Lip-Synchronization for Dubbed Instructional Videos .</a> FIVER @ CVPR'18 <span class="text-muted">PDF available.</span></p>
 <p class="textabstract">Annadani, Y., & Jawahar, C. V.(2018)<a href="assets/publications/yashas.pdf"> Augment and Adapt: A Simple Approach to Image Tampering Detection .</a> ICPR'18 <span class="text-muted">PDF available.</span></p>
