@@ -50,7 +50,7 @@ layout: base
 <p class="textabstract">Jha, A., Voleti, V., Namboodiri, V. P., & Jawahar, C. V.(2018)<a href="assets/publications/vikram.pdf"> Lip-Synchronization for Dubbed Instructional Videos.</a> FIVER @ CVPR'18 <span class="text-muted">PDF available.</span></p>
 <p class="textabstract">Annadani, Y., & Jawahar, C. V.(2018)<a href="assets/publications/yashas.pdf"> Augment and Adapt: A Simple Approach to Image Tampering Detection</a> ICPR'18 <span class="text-muted">PDF available.</span></p>
 <p class="textabstract">Datta, S., Sharma, G., & Jawahar, C. V. (2018)<a href="assets/publications/samyak.pdf"> Unsupervised Learning of Face Representations</a> FG'18 <span class="text-muted">PDF available.</span></p>
-<p class="textabstract">Agarwal, N., Balasubramanian, V. N., & Jawahar, C. V.(2018)<a href="assets/publications/nakul.pdf "> Improving multiclass classification by deep networks using DAGSVM and Triplet Loss.</a> Pattern Recognition Letterss. <span class="text-muted">PDF available.</span></p>
+<p class="textabstract">Agarwal, N., Balasubramanian, V. N., & Jawahar, C. V.(2018)<a href="assets/publications/nakul.pdf "> Improving multiclass classification by deep networks using DAGSVM and Triplet Loss.</a> Pattern Recognition Letters '18. <span class="text-muted">PDF available.</span></p>
 <p class="textabstract"><a href="#top">top</a></p>
 
 <!-- <hr> 
